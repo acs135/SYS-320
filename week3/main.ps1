@@ -4,11 +4,11 @@
 
 clear
 
-$loginoutsTable = GetLoginouts(15)
+$loginoutsTable = GetLoginouts 15
 $loginoutsTable
 
-$startupsTable = GetStartups(25)
+$startupsTable = GetStartups 25
 $startupsTable
 
-$shutdownsTable = GetShutdowns(25)
+$shutdownsTable = GetShutdowns 25
 $shutdownsTable
